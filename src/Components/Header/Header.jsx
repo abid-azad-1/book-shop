@@ -14,7 +14,7 @@ const Header = () => {
             {/* nav start */}
             <Link to={'/'} className='inline-flex items-center'>
                 <BoltIcon className='h-6 w-6 text-blue-500 '></BoltIcon>
-                <span className='text-lg ml-2 font-bold tracking-wide'>nextPage</span>
+                <span className='text-lg ml-2 font-bold tracking-wide'>Book Shop</span>
             </Link>
             <ul className='items-center hidden space-x-8 lg:flex'>
                 <li>
